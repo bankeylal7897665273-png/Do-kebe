@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://userapis-stfast.hf.space/$1"
+    }
+  ]
+}
